@@ -6,7 +6,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/chronick/gangway/internal/translate"
+	"github.com/algonormative/gangway/internal/translate"
 )
 
 const (

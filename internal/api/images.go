@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/chronick/gangway/internal/translate"
+	"github.com/algonormative/gangway/internal/translate"
 )
 
 // handleImageList handles GET /images/json.

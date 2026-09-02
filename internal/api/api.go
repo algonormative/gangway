@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	gexec "github.com/chronick/gangway/internal/exec"
+	gexec "github.com/algonormative/gangway/internal/exec"
 )
 
 // execConfig stores the configuration for a pending exec instance.

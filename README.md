@@ -7,7 +7,7 @@ Any tool that expects a Docker socket (OpenClaw, dockerode, CI pipelines, Testco
 ## Install
 
 ```bash
-go install github.com/chronick/gangway@latest
+go install github.com/algonormative/gangway@latest
 ```
 
 ## Usage

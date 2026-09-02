@@ -9,8 +9,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	gexec "github.com/chronick/gangway/internal/exec"
-	"github.com/chronick/gangway/internal/translate"
+	gexec "github.com/algonormative/gangway/internal/exec"
+	"github.com/algonormative/gangway/internal/translate"
 )
 
 func newTestServer() (*Server, *gexec.MockRunner) {

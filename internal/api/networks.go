@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/chronick/gangway/internal/translate"
+	"github.com/algonormative/gangway/internal/translate"
 )
 
 // handleNetworkList handles GET /networks.

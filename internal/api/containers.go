@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/chronick/gangway/internal/translate"
+	"github.com/algonormative/gangway/internal/translate"
 )
 
 // handleContainerList handles GET /containers/json.

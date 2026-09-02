@@ -13,8 +13,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/chronick/gangway/internal/api"
-	gexec "github.com/chronick/gangway/internal/exec"
+	"github.com/algonormative/gangway/internal/api"
+	gexec "github.com/algonormative/gangway/internal/exec"
 )
 
 func main() {
